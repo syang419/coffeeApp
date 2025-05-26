@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "381366085372",
+    "project_id": "myunipark-9424f",
+    "storage_bucket": "myunipark-9424f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381366085372:android:97b6c11ce98b9e8c435979",
+        "android_client_info": {
+          "package_name": "com.example.coffee_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRjoHoODpj9oynd-JMnKQGtCCPkM3Byzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381366085372:android:8e8e584c7d62cc4d435979",
+        "android_client_info": {
+          "package_name": "com.example.coffeeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRjoHoODpj9oynd-JMnKQGtCCPkM3Byzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381366085372:android:e0501a2c44435652435979",
+        "android_client_info": {
+          "package_name": "com.syang419.MyUniPark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRjoHoODpj9oynd-JMnKQGtCCPkM3Byzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
