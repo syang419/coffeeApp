@@ -1,16 +1,6 @@
 # coffee_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Change the google map api key in "lib/delivery.dart" and "android/app/src/main/AndroidMenifest.xml".
+2. Extract the "dart-toolnidea.zip" and put the folder in the root location.
+3. The delivery address in hard code from ss15 lrt to sunway pyramid just for simulation purpose of appling API.
+4. The focus is on delivery part, pickup do not have specific function.
